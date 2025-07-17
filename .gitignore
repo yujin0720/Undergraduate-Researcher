@@ -1,0 +1,10 @@
+﻿__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+data/
+models/
+results/
+*.h5ad
+*.npy
+*.pth
